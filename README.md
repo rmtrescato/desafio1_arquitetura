@@ -1,5 +1,5 @@
-Desafio 1 - Resolução 
-Criacao da pagina para empresa de Arquitura com formulario de captura.
+# Desafio 1 - Resolução 
+## Desenvolvimento de uma pagina para empresa de Arquitura com formulario de captura.
 
 🚀 Desafio - Desenvolva uma Landing Page
 📎 Arquivo do desafio:
@@ -10,11 +10,14 @@ Desafio: Desenvolva uma Landing Page 2
 Para avaliar as habilidades dos candidatos, ele decidiu propor um desafio: eles devem
 criar uma landing page como portfólio para uma empresa de arquitetura
 
-📌 Dados de acesso
+### 📌 Dados de acesso
 
-Link do site disponibilizado: 
+Link do site disponibilizado: [Clique aqui para acessar a Landing page](https://dnc-lp-arquitetura.netlify.app)
+
 Link da planilha de registro de informação:
 [Clique para acessar a planilha](https://docs.google.com/spreadsheets/d/14rRIVLX4sVk6H8VHIFNlGY9V1D1RNrqHVfGQYRFEtX0/edit?usp=sharing) 
+
+
 
 
 ⌨️ com ❤️ por Rodrigo Trescato 😊
